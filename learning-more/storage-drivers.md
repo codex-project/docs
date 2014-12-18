@@ -25,6 +25,7 @@ git clone https://github.com/caffeinated/codex-docs codex
 
 Once this is done, you can navigate your browser to your Codex installation and you'll be greeted with all of your git branches available as documentation versions.
 
+> **Notice:** You will need to add the git composer package in order to utilize this storage driver `$ composer require kzykhys/git`
 
 ## Creating a custom driver
 To create our custom storage driver, we first need to create our custom driver file and implement the `CodexRepositoryInterface` contract. For this example lets say we'll be adding a (ficticious) storage method for **Cloud Mars**, a new cloud service provider on Mars: `app/repositories/CodexRepositoryCloudmars.php`. We then need to implement the `CodexRepositoryInterface` contract. So, our **Cloud Mars** storage driver would look something like this:
