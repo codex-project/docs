@@ -1,3 +1,8 @@
+/*
+Title:  Callouts
+Author: The Codex Project
+*/
+
 # Callouts
 Blockquote callouts are really nice for drawing attention to important information. Callouts are automatically generated whenever you start a blockquote with a special *trigger* word.
 

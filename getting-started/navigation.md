@@ -1,3 +1,8 @@
+/*
+Title:  Navigation
+Author: The Codex Project
+*/
+
 # Navigation
 
 ## Linking to other pages

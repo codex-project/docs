@@ -1,3 +1,8 @@
+/*
+Title:  Installation
+Author: The Codex Project
+*/
+
 # Installation
 Codex is built on top of Laravel (4.2), so the requirements and installation process will be the same.
 

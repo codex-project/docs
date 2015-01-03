@@ -1,3 +1,8 @@
+/*
+Title:  PSR-2 Coding Style Guide
+Author: The Codex Project
+*/
+
 # PSR-2 Coding Style Guide
 This guide extends and expands on [PSR-1], the basic coding standard.
 

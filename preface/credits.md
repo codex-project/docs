@@ -1,3 +1,8 @@
+/*
+Title:  Credits
+Author: The Codex Project
+*/
+
 # Credits
 Codex was built on top of some great open-source projects. There were also a few websites that inspired me to create Codex, as I was blown away by their documentation and design to allow the means for easy readability.
 

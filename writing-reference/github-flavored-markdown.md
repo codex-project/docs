@@ -1,3 +1,8 @@
+/*
+Title:  Github Flavored Markdown
+Author: The Codex Project
+*/
+
 # Github Flavored Markdown
 
 Codex uses **GitHub Flavored Markdown**, or *GFM*, for all documentation markup. It differs from standard Markdown (SM) in a few significant ways, and adds some additional functionality.

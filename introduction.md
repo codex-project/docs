@@ -1,4 +1,10 @@
-# Introduction
+/*
+Title:  Introduction
+Author: The Codex Project
+*/
+
+Introduction
+============
 **Codex** is a simple file-based Markdown documentation platform built on top of Laravel. It's completely customizable and dead simple to use to create beautiful documentation.
 
 [![Author](http://img.shields.io/badge/author-Shea_Lewis-blue.svg?style=flat-square)](https://caffeinated.ninja)
@@ -9,12 +15,14 @@
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/2cdec527-cb61-4a38-8c44-775d30d55ea0/big.png)](https://insight.sensiolabs.com/projects/2cdec527-cb61-4a38-8c44-775d30d55ea0)
 
-## Completely Open Source
+Completely Open Source
+----------------------
 I built Codex to be open and available to *everyone*. Documentation is incredibly important that can make or break even the best development projects. This is why the code powering Codex is available on [GitHub](https://github.com/caffeinated/codex) under the [MIT license](https://tldrlegal.com/license/mit-license).
 
 In short, I want to see beautiful documentation being written everywhere! No excuses!
 
-## Features
+Features
+--------
 - Laravel 4.2
 - Github-flavored Markdown
 - Host an unlimited number of *manuals* with accompanying *versions*

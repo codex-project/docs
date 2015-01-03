@@ -1,3 +1,8 @@
+/*
+Title:  Working Locally
+Author: The Codex Project
+*/
+
 # Working Locally
 The following are guidelines for the preferred method to working with Codex locally on your machine mainly for contribution purposes, but is also good practice overall.
 

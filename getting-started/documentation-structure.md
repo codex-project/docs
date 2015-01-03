@@ -1,3 +1,8 @@
+/*
+Title:  Documentation Structure
+Author: The Codex Project
+*/
+
 # Documentation Structure
 
 By default, Codex will look for folders in the `public/docs` directory. This can be changed through the `codex.php` config file under the `storage_path` key.

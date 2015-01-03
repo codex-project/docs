@@ -1,6 +1,13 @@
-# Contributing Guidelines
+/*
+Title:  Contributing Guidelines
+Author: The Codex Project
+*/
 
-## Create an Issue
+Contributing Guidelines
+=======================
+
+Create an Issue
+---------------
 If you find a bug in Codex (and you don't know how to fix it), have trouble following the documentation, or have a question about Codex - create an issue! There's nothing to it and whatever issue you're having, you're likely not the only one, so others will find your issue helpful, too. For more information on how GitHub issues work, check out [GitHub's issues guide](http://guides.github.com/features/issues).
 
 > **Issues Pro Tips**
@@ -10,7 +17,8 @@ If you find a bug in Codex (and you don't know how to fix it), have trouble foll
 > - **Include system details** like what the browser and operating system you're using and its version.
 > - **Paste error output** or logs in your issue or in a [Gist](http://gist.github.com/). If pasting them in the issue, wrap it in three backticks: ` ``` ` so that it renders nicely.
 
-## Pull Request
+Pull Request
+------------
 If you’re able to patch the bug or add the feature yourself – fantastic, make a pull request with the code! Be sure you’ve read through the contribution guidelines here and understand the MIT license. Once you’ve submitted a pull request I can compare your branch to the master one and decide whether or not to incorporate (pull in) your changes.
 
 > **Pull Require Pro Tips**

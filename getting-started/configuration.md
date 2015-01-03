@@ -1,3 +1,8 @@
+/*
+Title:  Configuration
+Author: The Codex Project
+*/
+
 # Configuration
 
 Codex comes with a custom config file with a few configuration options within the `app/config/codex.php` file. Below you will find details on each option and how they can be used to tweak your Codex installation.
